@@ -11,4 +11,4 @@ Feel free to use/modify however you see fit.
 <li>
 This folder contains all the AHK scripts I find useful, but had no role in creating.
 <li>
-Rights to these scripts go to the rightful owners. I simply found them useful.
+All rights to these scripts go to the owners. I simply found them useful.
